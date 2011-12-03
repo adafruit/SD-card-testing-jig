@@ -7,8 +7,7 @@
   3. Can communicate with card
  */
 
-#include <SdFat.h>
-#include <SdFatUtil.h>
+#include <SD.h>
 
 Sd2Card card;
 
